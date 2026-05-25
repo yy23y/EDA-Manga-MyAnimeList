@@ -4,7 +4,8 @@
 El objetivo de este proyecto es realizar un Análisis Exploratorio de Datos (EDA) completo sobre un dataset de la plataforma MyAnimeList, aplicando técnicas de limpieza, tratamiento de datos y visualización para responder un conjunto de hipótesis definidas.
 
 ## Contexto del dataset
-El dataset utilizado recopila información de más de 70.000 mangas registrados en MyAnimeList. Contiene métricas de interacción de la comunidad (puntajes, favoritos, miembros) y características editoriales (volúmenes, capítulos, autores, demografía). 
+El dataset utilizado recopila información de más de 80.000 mangas registrados en MyAnimeList. Contiene métricas de interacción de la comunidad (puntajes, favoritos, miembros) y características editoriales (volúmenes, capítulos, autores, demografía).
+Link de descarga oficial: https://www.kaggle.com/datasets/patelris/anime-and-manga-dataset-2026/data
 
 ## Hipótesis planteadas
 1. **Relación Extensión-Calidad:** ¿Existe una correlación directa entre la cantidad de capítulos de un manga y su puntaje final (score)?
